@@ -8,8 +8,8 @@ This project is my way yo learn golang and get more familiar with k8s
 ### Phase 1 — Project Setup
 - [x] Initialize Go module
 - [ ] Create project folder structure
-- [ ] Setup configuration management
-- [ ] Add environment variable support
+- [x] Setup configuration management
+- [x] Add environment variable support
 - [ ] Setup basic HTTP server
 - [ ] Add graceful shutdown handling
 - [ ] Setup logging
