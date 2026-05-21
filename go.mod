@@ -4,6 +4,8 @@ go 1.26.3
 
 require github.com/gin-gonic/gin v1.12.0
 
+require github.com/sirupsen/logrus v1.9.4
+
 require (
 	github.com/bytedance/gopkg v0.1.4 // indirect
 	github.com/bytedance/sonic v1.15.1 // indirect
