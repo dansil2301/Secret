@@ -6,6 +6,8 @@ require github.com/gin-gonic/gin v1.12.0
 
 require github.com/sirupsen/logrus v1.9.4
 
+require github.com/mattn/go-sqlite3 v1.14.44 // indirect
+
 require (
 	github.com/bytedance/gopkg v0.1.4 // indirect
 	github.com/bytedance/sonic v1.15.1 // indirect
